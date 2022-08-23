@@ -1,0 +1,25 @@
+.custome {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    direction: rtl;
+}
+
+.contant-acardon {
+    border: solid 1px #b2bec3;
+    background-color: #dfe6e9;
+}
+
+.display {
+    display: none;
+}
+
+.custome {
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
